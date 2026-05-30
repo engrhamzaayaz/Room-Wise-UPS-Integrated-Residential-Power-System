@@ -60,3 +60,14 @@ reliable backup, surge handling, and future flexibility.
 
 ## 📄 License
 Academic project developed for EE-111 Circuit Analysis 1 — PIEAS, Islamabad.
+
+## 📷 Project Photos
+
+### Full House Circuit Design
+![Circuit Design](photos/Circuit_Design.png)
+
+### Main Source Connected Circuit
+![Main Source](photos/Main_Source_Connected_circuit.png)
+
+### UPS Checking Circuit
+![UPS Circuit](photos/UPS_Checking_circuit.png)
